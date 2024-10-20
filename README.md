@@ -10,8 +10,8 @@ Please use the R script ['tutorial_template.R'](https://github.com/sian-phillips
 
 I hope you find the tutorial useful and that you have fun learning a new data science skill! 
 
-This tutorial was created by Sian Phillips.    
-If you have any queries or comments about the tutorial please contact me at    
+This tutorial ha been created by Sian Phillips.    
+If you have any queries or comments about the tutorial please contact me at sian.phillips00@yahoo.com    
 
 <p align="center">
   <img src="ufo_art.jpg" style="zoom:10%;" />
