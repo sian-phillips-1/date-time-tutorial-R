@@ -6,7 +6,9 @@
 
 The best way to follow along with the tutorial is to first, clone or download the zip file of this repository, then open up the relevent files in your R environment.  
 
-Please use the R script ['tutorial_template.R'](https://github.com/sian-phillips/date-time-in-R-tutorial/blob/main/r_scripts/tutorial_template.R) as your working script. You can refer to the other two scripts; ['part_1_script.R'](https://github.com/sian-phillips/date-time-in-R-tutorial/blob/main/r_scripts/part_1_script.R) and ['part_2_script.R'](https://github.com/sian-phillips/date-time-in-R-tutorial/blob/main/r_scripts/part_2_script.R) for guidance.     
+Please use the R script ['tutorial_template.R'](https://github.com/sian-phillips/date-time-in-R-tutorial/blob/main/r_scripts/tutorial_template.R) as your working script. You can refer to the other two scripts; ['part_1_script.R'](https://github.com/sian-phillips/date-time-in-R-tutorial/blob/main/r_scripts/part_1_script.R) and ['part_2_script.R'](https://github.com/sian-phillips/date-time-in-R-tutorial/blob/main/r_scripts/part_2_script.R) for guidance. 
+
+The [data](https://github.com/sian-phillips-1/date-time-tutorial-R/blob/main/ufo.csv) used here is from [Kaggle](https://www.kaggle.com/NUFORC/ufo-sightings).
 
 I hope you find the tutorial useful and that you have fun learning a new data science skill! 
 
