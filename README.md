@@ -1,6 +1,6 @@
 # Date-Time in R 🛸      
 
-## Learn how to work with dates and times using the package `lubridate`.     
+## Learn how to work with dates and times using the R package `lubridate`.     
 
 **The tutorial can be accessed ➡  [here](https://eddatascienceees.github.io/tutorial-sian-phillips/)** ⬅ 
 
@@ -10,8 +10,8 @@ Please use the R script ['tutorial_template.R'](https://github.com/sian-phillips
 
 I hope you find the tutorial useful and that you have fun learning a new data science skill! 
 
-This tutorial was created by Sian Phillips, a student at Edinburgh University.    
-If you have any queries or comments about the tutorial please contact me at s1835925@ed.ac.uk    
+This tutorial was created by Sian Phillips.    
+If you have any queries or comments about the tutorial please contact me at sian.phillips00@yahoo.com.
 
 <p align="center">
   <img src="ufo_art.jpg" style="zoom:10%;" />
