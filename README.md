@@ -2,7 +2,7 @@
 
 ## Learn how to work with dates and times using the package `lubridate`.     
 
-**The tutorial can be accessed ➡  [here](https://eddatascienceees.github.io/tutorial-sian-phillips/)** ⬅ 
+**The tutorial can be accessed ➡  [here](https://sian-phillips-1.github.io/date-time-tutorial-R/)** ⬅ 
 
 The best way to follow along with the tutorial is to first, clone or download the zip file of this repository, then open up the relevent files in your R environment.  
 
